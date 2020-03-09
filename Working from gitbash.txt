@@ -1,0 +1,1 @@
+Adding a new file and will work from git bash.
